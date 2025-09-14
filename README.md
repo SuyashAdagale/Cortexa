@@ -9,6 +9,7 @@ An intelligent, versatile, and user-friendly chatbot application that harnesses 
 </a>
 📸 Preview
 
+![Cortexa App Preview](cortexa-preview.png)
 
 🚀 Key Features
 Multi-Model Text Chat: Switch between powerful AI models like Google Gemini and Groq on the fly.
